@@ -48,7 +48,7 @@ export default function App() {
   return (
     <main>
       <div className="bg-red-600 text-xl p-1 text-center font-bold">
-        Essa oferta sai do ar hoje, dia 12/10/2023
+        Essa oferta sai do ar hoje, dia 10/01/2024
       </div>
       <header className="flex justify-center" style={{ position: 'relative' }}>
         <div style={{ background: `url(${matrixBackground})`, opacity: 0.2, width: '100%', height: '100%', position: 'absolute', backgroundRepeat: 'no-repeat' }}></div>
@@ -69,7 +69,7 @@ export default function App() {
       </div>
 
       <div className="flex justify-center text-center pb-6 font-bold px-6 text-lg ">
-        Você poderá fazer até R$500,00 ainda hoje. Assista até o final para liberar acesso.
+        Assista até o final para liberar acesso.
       </div>
 
 
