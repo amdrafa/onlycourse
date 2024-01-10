@@ -74,11 +74,13 @@ export default function App() {
 
 
       {isVisible && (
-        <div className="flex justify-center px-6">
-          <button className="bg-green-700 p-4 w-full font-bold text-2xl rounded-md">
-            PARTICIPAR DO TREINAMENTO
-          </button>
-        </div>
+        <a href="https://pay.kiwify.com.br/KQ1e0T4">
+          <div className="flex justify-center px-6">
+            <button className="bg-green-700 p-4 w-full font-bold text-2xl rounded-md">
+              PARTICIPAR DO TREINAMENTO
+            </button>
+          </div>
+        </a>
       )}
 
       <footer className=" text-white p-4 mb-10 mt-4 text-center">
